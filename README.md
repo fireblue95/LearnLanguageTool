@@ -12,22 +12,22 @@
 
    ![Step2](https://github.com/Johnsonnnn/LearnLanguageTool/blob/main/images/step2.jpg)
 
-3. 可以選擇的模式：字卡、配對以及學習模式
-   * 左邊資料集：顯示 學習次數、最快學習時間、上次學習時間
-   * 右邊單字庫：顯示 英文中文、答對和答錯的總次數、總共答題的次數以及最快答對時間
+3. 可以選擇的模式：`字卡`、`配對`以及`學習模式`
+   * 左邊資料集：顯示 `學習次數`、`最快學習時間`、`上次學習時間`
+   * 右邊單字庫：顯示 `英文``中文`、`答對`和`答錯`的總次數、`總共答題的次數`以及`最快答對時間`
    
 
    ![Step3](https://github.com/Johnsonnnn/LearnLanguageTool/blob/main/images/step3.jpg)
 
 4. 字卡模式：上面有顯示目前進度
-   * 可以查看上一個/下一個單字以及查看翻譯
+   * 可以查看`上一個`/`下一個`單字以及`查看翻譯`
    * 打開概覽能夠看到所有單字
    * 框框內只能夠搜尋`名稱`的部分，單字要`一模一樣`才可以找到
    
    ![pair4](https://github.com/Johnsonnnn/LearnLanguageTool/blob/main/images/pair4.jpg)
 
 5. 配對模式：上面有顯示目前進度
-   * 如果上面的單字答案是下面的中文就答O
+   * 如果上面的`單字`答案是下面的`中文`就答O
    * 如果不同的話就答X
 
    ![pair1](https://github.com/Johnsonnnn/LearnLanguageTool/blob/main/images/pair1.jpg)
@@ -55,7 +55,7 @@
 
 7. 搜尋功能：可以搜尋`所有資料集`中的單字或是中文，只需打入`部分`單字或是中文就可以搜尋到
    
-   * 搜尋完畢後點一下目標的單字就可以跳轉到那個單字所在的地方
+   * 搜尋完畢後`點一下目標的單字`就可以`跳轉`到那個單字所在的地方
 
    ![search2](https://github.com/Johnsonnnn/LearnLanguageTool/blob/main/images/search1.jpg)
 
