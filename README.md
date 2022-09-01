@@ -41,7 +41,7 @@
    ![pair3](https://github.com/Johnsonnnn/LearnLanguageTool/blob/main/images/pair3.jpg)
 
 6. 學習模式：上面有顯示目前進度
-   * 右下角有選項[允許多個答案]，如果打勾則可以輸入部分的答案
+   * 右下角有選項`允許多個答案`，如果打勾則可以輸入`部分的答案`，是靠`，；：/`作為分號
  
      * 例如：`prospective` 的中文是 `預期的；未來的`
      * 這時候輸入 `預期的` 或是 `未來的` 都會是正確答案
