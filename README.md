@@ -1,6 +1,6 @@
 # 語言學習工具
 
-[Download](!https://github.com/Johnsonnnn/LearnLanguageTool/raw/main/LearnLanguage.exe)
+### [Download](https://github.com/Johnsonnnn/LearnLanguageTool/raw/main/LearnLanguage.exe)
 
 * 資料須自己建立，不限制任何語言
 
